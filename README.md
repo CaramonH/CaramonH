@@ -1,13 +1,36 @@
-### Hey there, I'm Caramon! 👋
+# Heya, I'm Caramon. 👋
 
-<!--:
+I'm a passionate software developer with a love for open source. I enjoy working on web development projects and contributing to various programming communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Front End Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: What I'm playing right now or how my Corgi is doing!
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 I'm currently learning Bootstrap and CSS.
+- 💬 Ask me about my experience at Holberton Tulsa!
+- 📫 How to reach me: caramon.h@gmail.com
+
+## Repositories
+
+Here are some of my favorite GitHub repositories:
+
+- [Repository 1](https://github.com/yourusername/repo1)
+- [Repository 2](https://github.com/yourusername/repo2)
+
+## Contact
+
+You can reach out to me on [GitHub](https://github.com/CaramonH) or by email at [caramon.h@gmail.com].
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## Let's Connect
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/caramonhofstetter)
+
+## Thanks for visiting! 😊
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.readme)](https://github.com/yourusername)
