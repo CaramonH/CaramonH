@@ -4,8 +4,8 @@ I'm a passionate software developer with a love for open source. I enjoy working
 
 ## About Me
 
-- 🌱 I'm currently learning Bootstrap and CSS.
-- 💬 Ask me about my experience at Holberton Tulsa!
+- 🌱 I'm currently learning Front End Web Development.
+- 💬 Ask me about my experience at Holberton School Tulsa!
 - 📫 How to reach me: caramon.h@gmail.com
 
 ## Repositories
